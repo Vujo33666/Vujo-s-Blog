@@ -10,7 +10,6 @@ const useFetch = (url) => {
 
         const abortCont = new AbortController();
 
-        // ZA POKRETANJE FAKE SERVERA: 
         // npx json-server --watch data/db.json --port 5555
          fetch(url,{signal:abortCont.signal})
            .then(response=>{
