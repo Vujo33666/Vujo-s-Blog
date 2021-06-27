@@ -1,6 +1,6 @@
-#The Vujo's blog
+# The Vujo's blog
 
-##Create React App
+## Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -25,3 +25,5 @@ More about: https://medium.com/codingthesmartway-com-blog/create-a-rest-api-with
 ## React Router
 
 Router package installation: npm install --save react-router-dom
+
+![Screenshot](vujo_blog.jpg)
